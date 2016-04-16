@@ -1,6 +1,6 @@
 {
   "name": "Alex之家",
   "tagline": "Alex之家",
-  "body": "welcome!",
+  "body": "welcome!\r\n<script>alert()</scriot>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
